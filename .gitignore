@@ -1,0 +1,64 @@
+
+# =========================
+# C Compiled Files
+# =========================
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.d
+
+# =========================
+# Build Directories
+# =========================
+build/
+debug/
+release/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# =========================
+# Debugging & Profiling
+# =========================
+*.core
+core
+core.*
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+*.dSYM/
+
+# =========================
+# Editor & IDE Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.log
+*.bak
+
+# =========================
+# Project Executable
+# =========================
+autocomplete
+autocomplete.exe
